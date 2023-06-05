@@ -20,8 +20,8 @@
 
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/25481822/1685981894564-8db724cb-9b56-4ed0-9380-a324dbcb6286.png#averageHue=%23f8f8f8&clientId=u7f93d35b-e544-4&from=paste&height=751&id=u666d4d7f&originHeight=804&originWidth=521&originalType=binary&ratio=1.0700000524520874&rotation=0&showTitle=false&size=48908&status=done&style=none&taskId=u76d55e50-099e-4755-9684-5548cff2a18&title=&width=486.91586398153885)
 
-解析法求解基础矩阵F函数见FunFundamentalMatrix.m
-函数实现见testMain.m
+	解析法求解基础矩阵F函数见FunFundamentalMatrix.m
+	函数实现见testMain.m
 
 **任务7：数值法求解基础矩阵F**
 
