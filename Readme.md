@@ -31,6 +31,7 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/25481822/1685981946736-a8ad2338-3993-471b-9f40-32b9aa6c6d44.png#averageHue=%23f1f1f1&clientId=u7f93d35b-e544-4&from=paste&height=110&id=u05474a1f&originHeight=118&originWidth=488&originalType=binary&ratio=1.0700000524520874&rotation=0&showTitle=false&size=14717&status=done&style=none&taskId=u203b766a-207c-4448-a46a-26febb78a6c&title=&width=456.07474399806324)
 
 当已知匹配像点对大于8时，系数矩阵的行数可以大于8，解上述方程的超定形式即可得到基础矩阵F的等比例数值解。
+
 	数值法法求解基础矩阵F函数可见FunFundamentalMatrix2.m
 	函数实现可见testMain.m
 
