@@ -1,4 +1,4 @@
-## Basic tasks of photogrammetry Ⅱ
+## Basic photogrammetry tasks Ⅱ
 注：本次任务中使用的数据来自某气象雷达天线的摄影测量实验，接续Basic tasks of photogrammetry Ⅰ。
 
 **任务5：三角交会测量（Triangulation）**
